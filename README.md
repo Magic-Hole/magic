@@ -3,8 +3,8 @@
 Je suis Magic-Hole, passionné par l'espace et Minecraft (les jeux vidéos) !
 
 - 🚀 Dev de Kyotil https://discord.com/api/oauth2/authorize?client_id=1060192969191346187&permissions=2146958591&response_type=code&redirect_uri=https%3A%2F%2Fdiscord.gg%2FES4JZcag&scope=bot+guilds.join .
-- 🌱 Je connais un peu le javascript.
-- 💬 Pour me contacter --> discord.gg/elexyr22.
+- 🌱 Javascript.
+- 💬 Pour me contacter --> https://dsc.gg/mgcshop .
 - Profil original by sown-discord
 
 ### Mes Stats Github:
