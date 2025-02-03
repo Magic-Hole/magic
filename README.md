@@ -17,5 +17,5 @@ Je suis Magic-Hole, passionné par l'espace et Minecraft (les jeux vidéos) !
 
 ### Retrouvez-moi sur Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/700417479243071608)](https://discord.com/users/700417479243071608)
+[![Discord Presence](https://lanyard.cnrad.dev/api/769439876004839485)](https://discord.com/users/769439876004839485)
  
